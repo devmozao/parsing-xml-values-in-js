@@ -7,3 +7,7 @@ to see it, just jump to index.js file.
 Pretty straightforward, hope it can help you all.
 
 o/
+
+<p align="center">
+  <img alt="Proof that it works, printscreen" src="./proof.png">
+</p>
